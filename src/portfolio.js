@@ -157,7 +157,7 @@ const workExperiences = {
       company: "Grapevine Wine & Spirits",
       companylogo: require("./assets/images/grapevine.JPG"),
       date: "June 2023 - June 2024",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "Collaborated with a team of six to drive alcohol sales across various categories, ensuring an engaging yet safe customer experience.",
       descBullets: [
         "Monitored sales performance ranging from $10,000 to $20,000 and budgeted merchandise displays accordingly",
         "Reinforced compliance with all local regulations (TABC) governing  product sales standards",
