@@ -101,12 +101,12 @@ const educationInfo = {
       desc: "Engagement and awards given through the university.",
       descBullets: [
         "Clubs: Information Science",
-        "Dean's List: Fall & Spring Freshman, Fall Sophmore, Fall & Spring Junior",
-        "Relevant Coursework: Calculus I & II, Matrix Algebra, Business & Professional Communication, Foundations of Info. Sci./Info. Tech., Database Design, Information Mgmt/Organization, UX Design"
-      ],
-    }
+        "Dean's List: Fall & Spring Freshman, Fall Sophmore, Fall & Spring Junior"
+      ]
+    },
   ]
 };
+
 
 // Your top 3 proficient stacks/tech experience
 
