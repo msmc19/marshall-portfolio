@@ -333,8 +333,7 @@ const contactInfo = {
   subtitle:
     "Want to chat? My contacts are always open for communication!",
   number: "(615)-997-6104",
-  email_address: "Personal: marshaar000@gmail.com",
-  email_address2: "School: amarsh32@vols.utk.edu"
+  email_address: "marshaar000@gmail.com"
 };
 
 // Twitter Section
