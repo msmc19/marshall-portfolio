@@ -23,23 +23,23 @@ const greeting = {
   username: "Aaron Marshall",
   title: "Hi all, I'm Aaron",
   subTitle: emoji(
-    "Testing"
+    "I'm Aaron Marshall, a driven Information Science major with a concentration in Data Information Management & Analytics and a Data Science minor at the University of Tennessee, graduating in May 2025. With a strong academic background, demonstrated by my 3.83 GPA and continuous Dean's List achievements, I bring both technical expertise and leadership skills to my work. My experience spans project coordination, database design, and data analysis, with proficiency in languages like Python and SQL. I have practical experience in customer service, team management, and handling high-paced operations. I am passionate about leveraging data insights to drive efficiency and am eager to contribute meaningfully to impactful projects."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://docs.google.com/document/d/1ZYwRRvek1SJlbVpAi2bVwSKEub-b4EEFU2Mdyzu68bc/edit?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
-  medium: "https://medium.com/@saadpasta",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  github: "https://github.com/msmc19",
+  linkedin: "https://www.linkedin.com/in/aaronmarshallit/",
+  gmail: "marshaar000@gmail.com",
+  gitlab: "",
+  facebook: "",
+  medium: "",
+  stackoverflow: "",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
