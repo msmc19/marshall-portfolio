@@ -139,30 +139,33 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Shift Lead",
+      company: "Noodles & Company",
+      companylogo: require("./assets/images/noodles.jpg"),
+      date: "July 2020 - August 2024",
+      desc: "Led a team of 10-15 employees across four statewide locations, managing task delegation, hands-on support, and on-the-spot issue resolution to ensure smooth operations.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Streamlined store management through opening and closing tasks, including inventory logging, preparation, and cleaning",
+        "Garnered knowledge of basic cooking techniques to execute tasks efficiently such as sauteing, frying, baking, and grilling meats and vegetables",
+        "Trained between 10-20 newly hired line and front workers to integrate smoothly into operations",
+        "Led operations under high-pressure, serving 50-150 customers while maintaining a focus on quality and consistency",
+        "Managed front and back of house staff during peak sales periods, handling $3,000 - $5,000 transactions between 4-7 hour shifts"
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
+      role: "Cashier / Merchandiser",
+      company: "Grapevine Wine & Spirits",
+      companylogo: require("./assets/images/grapevine.JPG"),
+      date: "June 2023 - June 2024",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      descBullets: [
+        "Streamlined store management through opening and closing tasks, including inventory logging, preparation, and cleaning",
+        "Garnered knowledge of basic cooking techniques to execute tasks efficiently such as sauteing, frying, baking, and grilling meats and vegetables",
+        "Trained between 10-20 newly hired line and front workers to integrate smoothly into operations",
+        "Led operations under high-pressure, serving 50-150 customers while maintaining a focus on quality and consistency",
+        "Managed front and back of house staff during peak sales periods, handling $3,000 - $5,000 transactions between 4-7 hour shifts"
+      ]
     },
-    {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    }
   ]
 };
 
