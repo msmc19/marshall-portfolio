@@ -70,11 +70,11 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "pandas",
-      fontAwesomeClassname: "fal fa-chart-simple"
+      fontAwesomeClassname: "fas fa-chart-simple"
     },
     {
       skillName: "numpy",
-      fontAwesomeClassname: "fal fa-calculator"
+      fontAwesomeClassname: "fas fa-calculator"
     },
     {
       skillName: "java",
@@ -82,7 +82,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "c++",
-      fontAwesomeClassname: "fab fa-terminal"
+      fontAwesomeClassname: "fas fa-terminal"
     }
   ],
   display: true // Set false to hide this section, defaults to true
