@@ -48,16 +48,14 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  title: "My Background",
+  subTitle: "Analytical strategist with a knack for adaptive solutions and hands-on impact",
   skills: [
-    emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
-    ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
-    )
+    emoji("♨️ Analytical Proficiency: Skilled in data analysis and database management, utilizing SQL and Python to extract insights and ensure data integrity."),
+    emoji("♨️ Technical Versatility: Proficient in a variety of programming languages and platforms, including Python, SQL, C++, and HTML, along with tools like Visual Studio and Jupyter Notebooks"),
+    emoji("♨️ Effective Communicator: Capable of delivering impactful business presentations and professional communication tailored to enhance engagement and productivity")
+    emoji("♨️") 
+    emoji("♨️")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
