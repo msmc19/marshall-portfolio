@@ -98,10 +98,11 @@ const educationInfo = {
       logo: require("./assets/images/UT_Knoxville_logo_2015.png"),
       subHeader: "Bachelor's of Information Sciences",
       duration: "August 2021 - May 2025",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      desc: "Engagement and awards given through the university.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Clubs: Information Science",
+        "Dean's List: Fall & Spring Freshman, Fall Sophmore, Fall & Spring Junior"
+        "Relevant Coursework: Calculus I & II, Matrix Algebra, Business & Professional Communication, Foundations of Info. Sci./Info. Tech., Database Design, Information Mgmt/Organization, UX Design"
       ]
     },
   ]
