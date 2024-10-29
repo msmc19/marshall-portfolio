@@ -95,7 +95,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "University of Tennessee-Knoxville",
-      logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/images/UT_Knoxville_logo_2015.png"),
       subHeader: "Bachelor's of Information Sciences",
       duration: "August 2021 - May 2025",
       desc: "Participated in the research of XXX and published 3 papers.",
