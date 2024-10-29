@@ -70,11 +70,11 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "pandas",
-      fontAwesomeClassname: "fa-solid fa-chart-simple"
+      fontAwesomeClassname: "fal fa-chart-simple"
     },
     {
       skillName: "numpy",
-      fontAwesomeClassname: "fa-sold fa-calculator"
+      fontAwesomeClassname: "fal fa-calculator"
     },
     {
       skillName: "java",
