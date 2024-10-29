@@ -70,7 +70,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "pandas",
-      fontAwesomeClassname: "fas fa-chart-simple"
+      fontAwesomeClassname: "fas fa-chart-bar"
     },
     {
       skillName: "numpy",
