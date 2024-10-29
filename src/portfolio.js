@@ -165,7 +165,7 @@ const workExperiences = {
         "Led operations under high-pressure, serving 50-150 customers while maintaining a focus on quality and consistency",
         "Managed front and back of house staff during peak sales periods, handling $3,000 - $5,000 transactions between 4-7 hour shifts"
       ]
-    },
+    }
   ]
 };
 
