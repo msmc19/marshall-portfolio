@@ -137,7 +137,6 @@ const techStack = {
 
 const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
-  title: "Experiences 💼📈",
   experience: [
     {
       role: "Shift Lead",
