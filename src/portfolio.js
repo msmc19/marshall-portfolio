@@ -91,7 +91,7 @@ https://fontawesome.com/icons?d=gallery */
 // Education Section
 
 const educationInfo = {
-  display: true, // Set false to hide this section, defaults to true
+  title: "Education 🎓📚",
   schools: [
     {
       schoolName: "University of Tennessee-Knoxville",
@@ -104,7 +104,8 @@ const educationInfo = {
         "Dean's List: Fall & Spring Freshman, Fall Sophmore, Fall & Spring Junior"
       ]
     },
-  ]
+  ],
+  display: true // Set false to hide this section, defaults to true
 };
 
 
