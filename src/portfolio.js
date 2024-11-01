@@ -137,6 +137,7 @@ const techStack = {
 
 const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
+  title: "Professional Experience 💼📈",
   experience: [
     {
       role: "Shift Lead",
@@ -179,7 +180,7 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
+  title: "Big Projects 🛠️📊",
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
@@ -267,7 +268,7 @@ const achievementSection = {
       ]
     }
   ],
-  display: False // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Blogs Section
