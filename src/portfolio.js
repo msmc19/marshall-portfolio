@@ -183,7 +183,7 @@ const bigProjects = {
   subtitle: "Notable projects I've created or collaborated to present",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
+      image: require("./assets/images/WIP.png"),
       projectName: "WIP",
       projectDesc: "Check back later!",
       footerLink: [
@@ -195,7 +195,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      image: require("./assets/images/WIP.png"),
       projectName: "WIP",
       projectDesc: "Check back later!",
       footerLink: [
