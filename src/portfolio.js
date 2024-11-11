@@ -23,7 +23,7 @@ const greeting = {
   username: "Aaron Marshall",
   title: "Hi all, I'm Aaron",
   subTitle: emoji(
-    "I’m Aaron Marshall, an Information Science major 🎓 with a concentration in Data Information Management & Analytics and a Data Science minor at the University of Tennessee, graduating in May 2025. With a 3.83 GPA 📈 and continuous Dean’s List recognition 🏆, I bring strong technical expertise in Python 🐍, SQL 💾, and database design. My experience spans project coordination, data analysis 📊, and customer-focused team management 👥 in fast-paced environments. I’m passionate about using data insights to enhance efficiency 🚀 and eager to contribute to impactful projects."
+    "a dedicated student at the University of Tennessee, graduating in May 2025. With a strong academic record 📚 and consistent Dean’s List honors 🏆, I thrive in environments where I can connect with people and drive impactful projects. My experience spans project coordination, analytical problem-solving, and creating positive customer experiences 🤝 in fast-paced settings. Outside of academics, I’m committed to an active lifestyle 💪 with nearly four years in the gym, love discovering unique finds while thrifting 🛍️, enjoy watching football 🏈, diving into video games 🎮, and exploring new flavors as a passionate foodie 🍲. Eager to bring my energy and dedication to a role where I can contribute and grow!"
   ),
   resumeLink:
     "https://docs.google.com/document/d/1ZYwRRvek1SJlbVpAi2bVwSKEub-b4EEFU2Mdyzu68bc/edit?usp=sharing", // Set to empty to hide the button
