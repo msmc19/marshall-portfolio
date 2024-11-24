@@ -183,25 +183,25 @@ const bigProjects = {
   subtitle: "Notable projects I've created or collaborated to present",
   projects: [
     {
-      image: require("./assets/images/WIP.png"),
-      projectName: "WIP",
-      projectDesc: "Check back later!",
+      image: require("./assets/images/terminal.png"),
+      projectName: "ISP Customer Tracker",
+      projectDesc: "This project is a menu-driven application designed to manage customer relationships for an Internet Service Provider, integrating customer, location, service, equipment, and billing data into a cohesive database system to streamline operations and provide actionable insights.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://www.youtube.com/watch?v=8Pc0AEbfnBM&ab_channel=Marbler"
+          url: "https://github.com/msmc19/ISP-Customer-Tracker"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/WIP.png"),
-      projectName: "WIP",
-      projectDesc: "Check back later!",
+      image: require("./assets/images/terminal.png"),
+      projectName: "Relational Algebra & SQL",
+      projectDesc: "This project integrates relational database design, normalization principles, and SQL query execution to efficiently manage and analyze diverse datasets, ensuring data integrity and providing actionable insights through structured data management.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://www.youtube.com/watch?v=8Pc0AEbfnBM&ab_channel=Marbler"
+          url: "https://github.com/msmc19/Relational-Algebra-SQL"
         }
       ]
     }
