@@ -51,9 +51,9 @@ const skillsSection = {
   title: "My Background",
   subTitle: "Analytical strategist with a knack for adaptive solutions and hands-on impact",
   skills: [
-    emoji("♨️ Analytical Proficiency: Skilled in data analysis and database management, utilizing SQL and Python to extract insights and ensure data integrity."),
-    emoji("♨️ Technical Versatility: Proficient in a variety of programming languages and platforms, including Python, SQL, C++, and HTML, along with tools like Visual Studio and Jupyter Notebooks"),
-    emoji("♨️ Effective Communicator: Capable of delivering impactful business presentations and professional communication tailored to enhance engagement and productivity")
+    emoji("♨️ Analytical Proficiency: Demonstrates expertise in data analysis and database management, leveraging SQL and Python to extract actionable insights and maintain data integrity."),
+    emoji("♨️ Technical Versatility: Skilled in diverse programming languages and platforms, including Python, SQL, C++, and HTML, with proficiency in tools such as Visual Studio and Jupyter Notebooks."),
+    emoji("♨️ Effective Communication: Adept at delivering compelling business presentations and professional communications, tailored to foster engagement and drive productivity.")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
