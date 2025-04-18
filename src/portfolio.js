@@ -26,7 +26,7 @@ const greeting = {
     "a proud student at the University of Tennessee, graduating in May 2025 🎓. With a strong academic foundation 📚 and a track record of Dean’s List honors 🏆, I excel in creating meaningful connections and driving impactful projects. My experience includes project coordination, analytical problem-solving, and delivering exceptional customer experiences 🤝 in dynamic, fast-paced environments. Beyond academics, I embrace an active lifestyle 💪 with nearly four years of gym dedication, love the thrill of discovering unique treasures while thrifting 🛍️, enjoy cheering on football games 🏈, immersing myself in video games 🎮, and exploring diverse cuisines as a passionate foodie 🍲. Excited to bring my enthusiasm, skills, and drive to a role where I can make a difference and continue to grow!"
   ),
   resumeLink:
-    "https://docs.google.com/document/d/1ZYwRRvek1SJlbVpAi2bVwSKEub-b4EEFU2Mdyzu68bc/edit?usp=sharing", // Set to empty to hide the button
+    "https://docs.google.com/document/d/1_A0xIGrHW5yKT_EbzmparX_yXbYXCYJS4za8r9oNEAc/edit?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
