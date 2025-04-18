@@ -185,7 +185,7 @@ const bigProjects = {
     {
       image: require("./assets/images/terminal.png"),
       projectName: "ISP Customer Tracker",
-      projectDesc: "This project is a menu-driven application designed to manage customer relationships for an Internet Service Provider, integrating customer, location, service, equipment, and billing data into a cohesive database system to streamline operations and provide actionable insights.",
+      projectDesc: "Menu‑driven Python application that manages ISP customers, their service locations, subscribed services, installed equipment, and billing status—all backed by a normalized PostgreSQL database.",
       footerLink: [
         {
           name: "Visit Website",
@@ -196,13 +196,25 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/terminal.png"),
-      projectName: "Relational Algebra & SQL",
-      projectDesc: "This project integrates relational database design, normalization principles, and SQL query execution to efficiently manage and analyze diverse datasets, ensuring data integrity and providing actionable insights through structured data management.",
+      projectName: "Tax Return System",
+      projectDesc: "The Tax Return System is a scalable, object‑oriented Python application backed by a normalized PostgreSQL schema that enables CPAs and their assistants to manage clients and one‑per‑client tax returns through a layered architecture with connection‑pooled data access and robust error handling.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://github.com/msmc19/Relational-Algebra-SQL"
+          url: "https://github.com/msmc19/Tax-Return-System"
         }
+      ]
+    },
+     {
+      image: require("./assets/images/terminal.png"),
+      projectName: "Fraud Detection Analysis in Digital Wallet Transactions",
+      projectDesc: "A reproducible data‑science pipeline that cleans a synthetic digital‑wallet dataset, engineers five interpretable fraud indicators, and surfaces high‑risk transactions/users through Python notebooks and interactive Tableau dashboards.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://github.com/msmc19/Fraud-Detection-Analysis"
+        }
+        //  you can add extra buttons here.
       ]
     }
   ],
