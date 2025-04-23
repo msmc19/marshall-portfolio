@@ -69,35 +69,6 @@ const skillsSection = {
   /* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
 
-  softwareSkills: [
-    {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
-    },
-    {
-      skillName: "pandas",
-      fontAwesomeClassname: "fas fa-chart-bar"
-    },
-    {
-      skillName: "numpy",
-      fontAwesomeClassname: "fas fa-calculator"
-    },
-    {
-      skillName: "java",
-      fontAwesomeClassname: "fab fa-java"
-    },
-    {
-      skillName: "c++",
-      fontAwesomeClassname: "fas fa-terminal"
-    }
-  ],
-  display: true // Set false to hide this section, defaults to true
-};
-
 // Education Section
 
 const educationInfo = {
