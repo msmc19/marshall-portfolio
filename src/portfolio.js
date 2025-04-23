@@ -51,10 +51,20 @@ const skillsSection = {
   title: "My Background",
   subTitle: "Analytical strategist with a knack for adaptive solutions and hands-on impact",
   skills: [
-    emoji("♨️ Analytical Proficiency: Demonstrates expertise in data analysis and database management, leveraging SQL and Python to extract actionable insights and maintain data integrity."),
-    emoji("♨️ Technical Versatility: Skilled in diverse programming languages and platforms, including Python, SQL, C++, and HTML, with proficiency in tools such as Visual Studio and Jupyter Notebooks."),
-    emoji("♨️ Effective Communication: Adept at delivering compelling business presentations and professional communications, tailored to foster engagement and drive productivity.")
+    emoji("♨️ Analytical Proficiency: I leverage SQL, Python, and PostgreSQL to build fraud-analytics pipelines (250 K+ records), normalize complex schemas, and maintain data integrity—turning raw data into clear, actionable insights."),
+    emoji("♨️ Technical Versatility: I develop end-to-end solutions across Python, SQL, C++, and HTML, using tools like Tableau, Jupyter Notebooks, and Visual Studio to deliver everything from interactive visualizations to modular backend systems."),
+    emoji("♨️ Effective Communication: I translate technical findings into concise presentations and reports, collaborating cross-functionally to align stakeholders, drive decisions, and ensure every project message lands.")
   ],
+  softwareSkills: [
+    { skillName: "sql-database", fontAwesomeClassname: "fas fa-database" },
+    { skillName: "python", fontAwesomeClassname: "fab fa-python" },
+    { skillName: "pandas", fontAwesomeClassname: "fas fa-chart-bar" },
+    { skillName: "numpy", fontAwesomeClassname: "fas fa-calculator" },
+    { skillName: "java", fontAwesomeClassname: "fab fa-java" },
+    { skillName: "c++", fontAwesomeClassname: "fas fa-terminal" }
+  ],
+  display: true
+};
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
