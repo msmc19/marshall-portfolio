@@ -55,6 +55,9 @@ const skillsSection = {
     emoji("♨️ Technical Versatility: I develop end-to-end solutions across Python, SQL, C++, and HTML, using tools like Tableau, Jupyter Notebooks, and Visual Studio to deliver everything from interactive visualizations to modular backend systems."),
     emoji("♨️ Effective Communication: I translate technical findings into concise presentations and reports, collaborating cross-functionally to align stakeholders, drive decisions, and ensure every project message lands.")
   ],
+
+// Software Skills section
+  
   softwareSkills: [
     { skillName: "sql-database", fontAwesomeClassname: "fas fa-database" },
     { skillName: "python", fontAwesomeClassname: "fab fa-python" },
